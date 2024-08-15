@@ -17,3 +17,7 @@ func DD003() {
 func DD010() {
 	fmt.Printf("\"dd\": %v\n", "dd010")
 }
+
+func DD020() {
+	fmt.Printf("\"dd\": %v\n", "dd020")
+}
