@@ -9,3 +9,7 @@ func DD() {
 func DD002() {
 	fmt.Printf("\"dd\": %v\n", "dd")
 }
+
+func DD003() {
+	fmt.Printf("\"dd\": %v\n", "dd")
+}
